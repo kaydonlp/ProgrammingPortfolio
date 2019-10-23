@@ -6,3 +6,10 @@ from asciiart import *
 from SecretofthePyramidsAllPages import *
 
 
+print(intro)
+print(pagetitle_art)
+input("Press enter to read: ")
+print(page1_art)
+print(pg1)
+input("Press Enter to continue: ")
+print(pg2)
